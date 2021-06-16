@@ -73,7 +73,7 @@ export default function App() {
 
 const styles = StyleSheet.create({
   container: {
-    padding: 30,
+    padding: 35,
   },
   InputContainer: {
     alignItems: "center",
